@@ -1,6 +1,4 @@
-# becoming-ios-developer-roadmap
-Becoming iOS Developer Roadmap
-
+# Becoming iOS Developer Roadmap
 
 # Overview
 
